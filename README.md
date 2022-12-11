@@ -1,2 +1,2 @@
 ## Practice (JavaScript)
-# [_Color generator_](https://filpolyakov13041995.github.io/Color-generator__JS/)
+# [_API_](https://filpolyakov13041995.github.io/API-cats/)
